@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Josh Thephasdin and I enjoy coding! My hobbies include Javascript, React, Python and more. 
+My name is Josh Thephasdin and I enjoy coding! My hobbies include Javascript, playing Chess, React, Ping Pong, Python and more. 
 
 I have 20 years of experience in sales and management in the Supply Chain and Logistics industry.
 
