@@ -2,7 +2,7 @@
 
 My name is Josh Thephasdin and I enjoy coding! My hobbies include Javascript, playing Chess, React, Ping Pong, Python and more. 
 
-I have 20 years of experience in sales and management in the Supply Chain and Logistics industry.
+I have previous experience in sales and management in the Supply Chain and Logistics industry.
 
 - 🌱 I JUST FINISHED learning full stack engineering thru General Assembly. It was fun.
 
