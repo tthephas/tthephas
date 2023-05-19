@@ -6,7 +6,9 @@ I have previous experience in sales and management in the Supply Chain and Logis
 
 - 🌱 I JUST FINISHED learning full stack engineering thru General Assembly. It was fun.
 
-- 🔭 I’m currently working on finding a company where I can be very useful.
+- 🔭 I’m currently using my skills to customize automated warehouse solution software in C#, LINQ and .NET.
+
+- ![My Skills](https://skillicons.dev/icons?i=py) After work I'm learning more python thru projects and learning data structures and algorithms.
 
 - 💬 Ask me about anything. 
 
